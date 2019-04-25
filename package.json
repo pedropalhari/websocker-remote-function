@@ -1,0 +1,22 @@
+{
+  "name": "websocket-remote-function",
+  "version": "0.0.1",
+  "description": "Call remote defined functions via websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "./index.d.ts",
+  "keywords": [
+    "websocket",
+    "remote",
+    "function",
+    "call"
+  ],
+  "author": "Pedro Palhari",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^11.13.4",
+    "ws": "^6.2.1"
+  }
+}
